@@ -1,7 +1,7 @@
 # Eai, Devs! 👋
 
 # 👨🏻‍💻 Sobre mim
-Me chamo Thales Caruso, tenho 24 anos, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós em UX.
+Me chamo Thales Caruso, tenho 24 anos, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós em UX. <br>
 Sou um desenvolvedor com habilidades em aplicações web que sempre busca aprender alguma lição após cada dia.
 
 # 🌐 Redes Sociais
