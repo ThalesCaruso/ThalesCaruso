@@ -5,7 +5,7 @@ Me chamo Thales Caruso, tenho 24 anos, formado em Análise e Desenvolvimento de 
 Sou um desenvolvedor com habilidades em aplicações web que sempre busca aprender alguma lição após cada dia.
 
 # 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thales-caruso-21198b218/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@carusothalesds) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thales-caruso-21198b218/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carusothalesds) 
 
 # 🖥️ Tecnologias e Ferramentas 
 <div style="display: inline_block">
