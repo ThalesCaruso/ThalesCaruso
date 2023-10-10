@@ -1,9 +1,13 @@
-# Olá! Eu sou o Thales 
+# Eai, Devs! 👋
 
-# 🧑🏻 Redes Sociais
+# 👨🏻‍💻 Sobre mim
+Me chamo Thales Caruso, tenho 24 anos, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós em User Experience.
+Sou um desenvolvedor com habilidades em aplicações web que sempre busca aprender alguma lição após cada dia.
+
+# 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@carusothalesds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thales-caruso-21198b218/) 
 
-# 🧠 Skills 
+# 🖥️ Tecnologias e Ferramentas 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML 5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />      
