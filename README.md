@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Sobre mim
 Me chamo Thales Caruso, tenho 24 anos, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós em UX. <br>
-Sou um desenvolvedor com habilidades em aplicações web que sempre buscando aprimorar suas habilidades e aprender algo novo.
+Sou um desenvolvedor com habilidades em aplicações web que está sempre buscando aprimorar suas habilidades e aprender algo novo.
 
 # 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thales-caruso-21198b218/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carusothalesds) 
